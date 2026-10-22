@@ -1,4 +1,7 @@
-nostre codi.
+function setup() {
+  createCanvas(600, 600,);// Crea un areade dibuix de 600 píxels
+//  quadrats , 600 píxels d'alçada, canvas és àrea de dibuix.
+   // Setup és la configuración o caracteristiques del nostre codi.
 }
 
 function draw() {// Draw significa dibuixar
